@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basilomusula
 - 👀 I’m interested in being a data scientist
-- 🌱 I’m currently learning dta analytics/analysis
+- 🌱 I’m currently learning data analytics/analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
